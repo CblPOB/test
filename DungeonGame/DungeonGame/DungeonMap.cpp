@@ -406,10 +406,7 @@ void DungeonMap::setItemsInRooms()
 	}
 
 	getRoom(uniqueCoordinates[0])->addItem(factory.create("key"));
-	cout << uniqueCoordinates[0].first << uniqueCoordinates[0].second << "\n";
-
 	getRoom(uniqueCoordinates[1])->addItem(factory.create("chest"));
-	cout << uniqueCoordinates[1].first << uniqueCoordinates[1].second << "\n";
 	player.setPosition(uniqueCoordinates[2]);
 	Item *randomItem;
 	for (int i = 0; i < width; i++) {

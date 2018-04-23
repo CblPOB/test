@@ -1,36 +1,12 @@
-﻿  AbstractItemCreator.cpp
-  Chest.cpp
-  Controller.cpp
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\controller.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
-  DungeonMap.cpp
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(240): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(378): warning C4018: <: несоответствие типов со знаком и без знака
-  Food.cpp
-  Gold.cpp
-  Item.cpp
-  ItemFactory.cpp
-  Key.cpp
-  Main.cpp
-  Player.cpp
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\player.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\player.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\player.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
-  Room.cpp
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\room.cpp(12): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\room.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\room.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
-  Torchlight.cpp
-  View.cpp
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\view.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\view.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\view.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-c:\users\nikita\source\repos\sibers\dungeongame\dungeongame\dungeonmap.cpp(442): warning C4715: DungeonMap::getRandomItem: значение возвращается не при всех путях выполнения
-  DungeonGame.vcxproj -> C:\Users\nikita\source\repos\Sibers\DungeonGame\Debug\DungeonGame.exe
+﻿  DungeonMap.cpp
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(240): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(378): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repo\test\dungeongame\dungeongame\dungeonmap.cpp(439): warning C4715: DungeonMap::getRandomItem: значение возвращается не при всех путях выполнения
+  DungeonGame.vcxproj -> C:\Users\nikita\source\repo\test\DungeonGame\Debug\DungeonGame.exe
